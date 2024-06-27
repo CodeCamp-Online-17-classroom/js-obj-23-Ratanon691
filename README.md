@@ -7,3 +7,4 @@
 - multiply() ให้รับค่าตัวเลขและคูณตัวเลขกับ value
 - divide() ให้รับค่าตัวเลขและนำไปหาร value
 - show() ให้ alert ค่า value
+Rattanon Tunwittaya
